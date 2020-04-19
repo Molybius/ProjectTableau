@@ -1,9 +1,9 @@
-## ProjectTableau
+# ProjectTableau
 
 This repo contains all related data and informations for the Project Tableau of the Ironhack Data Analytics Bootcamp March 2020.
 
-## Description
-# Data handling
+# Description
+## Data handling
 
 For performing a detailed investigation on the german election in 2017 with the Software _Tableau_ I've downloaded two datasets in .csv-format from kaggle.com. One file consists of the overall results (2017_german_election_overall.csv -> will be further referred as "Overall") and one contains informations of the votes for each party (2017_german_election_party.csv > will be further referred as "Party"). 
 
@@ -51,13 +51,13 @@ Following steps in processing the data for the needed visualizations has been do
   
       In-built data handling (f.e. avearge, count distinct, etc) as well as quick table calculations (f.e. percent of total, etc) has been used for further data processing to generate needed visualizations.
       
-# Data visualization
+## Data visualization
 The principal aim for the final story was to display the overall result, showing parties passing/unpassing the 5% hurdle, showing the relative amount of valid/invalid votes of both first and second vote for each state, highlighting how areas voted for the main parties as well as a closer look on the AfD and DIE LINKE.
 
-# Obstacles encountered
+## Obstacles encountered
 I intended to investigate the data with a granularity down to the constituencies. The software stated the need of textfile, which I imported without an error message, but the data weren't available. After trying several hours to fix that problem (which failed) I decided to stick to the state level in order to avoid more time losses.
 
-# Results of investigation
+## Results of investigation
 Please refer following worksheet descriptions to the Tableau Story accesible via the link in next chapter. <br />
 Worksheet _Final election results_ <br />
     Shows the overall election results with a 5%-threshold line, which is the hurdle for entering the german Bundestag.
@@ -84,6 +84,6 @@ Worksheet _Comparision of other parties_ <br />
 Worksheet _Select party result per state_ <br />
     Shows a map of all states with the possibility to select one of the 43 parties and show it's result per state.
 
-# Links
+## Links
 Tableau
 
