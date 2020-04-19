@@ -2,6 +2,8 @@
 
 This repo contains all related data and informations for the Project Tableau of the Ironhack Data Analytics Bootcamp March 2020.
 
+_Important: I've failed several times to publish the Tableau story via the Software (using full version 2020.1). After some research online the problem seems to be on the software suppliers side since I encountered exactly the same problems as described in following thread: https://community.tableau.com/thread/286376 . I was able to save the story as a powerpoint presentation which I added to the data folder as well as the native Tableau file._
+
 # Description
 ## Data handling
 
@@ -85,5 +87,5 @@ Worksheet _Select party result per state_ <br />
     Shows a map of all states with the possibility to select one of the 43 parties and show it's result per state.
 
 ## Links
-Tableau
+Tableau (unable to publish, please refer to initial statement)
 
